@@ -99,7 +99,7 @@ done 42
 failed 4
 ```
 
-###1. Rescheduler
+###7. Rescheduler
 
 Moves all URLs from failed queue back to resize queue.
 
